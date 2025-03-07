@@ -23,7 +23,7 @@ IntelliJ IDEA or any Java IDE
 
 ## Clone this repository:
 
-git clone https://github.com/yourusername/Chrome-Dinosaur-Game.git
+git clone https://github.com/dwivedikirtiman/Chrome-Dinosaur-Game.git
 
 Navigate to the project folder:
 
