@@ -3,7 +3,7 @@
 
 🎮 About the Project
 
-This is a Java-based Chrome Dinosaur Game built using Java Swing. It replicates the popular offline game from Google Chrome, where a dinosaur jumps over obstacles to avoid collisions and increase the score.
+This is a Java-based Chrome Dinosaur Game built using Java Swing. It replicates the popular offline game from Google Chrome(T-rex or Dino we say), where a dinosaur jumps over obstacles to avoid collisions and increase the score.
 
 
 ## ✨ Features
